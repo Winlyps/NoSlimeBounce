@@ -1,0 +1,5 @@
+name: NoSlimeBounce
+version: '1.0-SNAPSHOT'
+main: winlyps.noSlimeBounce.NoSlimeBounce
+api-version: '1.20'
+authors: [ Winlyps ]
